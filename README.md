@@ -1,1 +1,1 @@
-# Geospacial-analysis-and-visulization-of-covid-19
+# Geospacial-analysis-and-Visualizing-of-covid-19
